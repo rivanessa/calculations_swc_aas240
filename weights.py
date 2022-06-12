@@ -3,4 +3,3 @@ def lbs_kg(weight_lbs):
 
 def kg_lbs(weight_kg):
     return weight_kg * 2.2
-    
